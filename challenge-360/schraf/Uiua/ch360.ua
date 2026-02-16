@@ -1,4 +1,5 @@
 # https://theweeklychallenge.org/blog/perl-weekly-challenge-360/
+# https://arraybox.dev/#bC6s
 
 Tj ← ↻⊃(⌈÷₂-⊙⧻|⊣⬚@*↯⊂1)
 
