@@ -1,0 +1,10 @@
+# https://theweeklychallenge.org/blog/perl-weekly-challenge-240/
+
+# TASK 1
+# https://arraybox.dev/#KG1o
+
+Acronym ← /◇⊂⍚⊢¯⌵
+
+≍ Acronym {"Perl" "Python" "Pascal"} "ppp"
+≍ Acronym {"Perl" "Raku"} "rp"
+≍ Acronym {"Oracle" "Awk" "C"} "oac"
