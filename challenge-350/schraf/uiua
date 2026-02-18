@@ -1,0 +1,8 @@
+# https://theweeklychallenge.org/blog/perl-weekly-challenge-350/
+# https://arraybox.dev/#7bUu
+
+# TASK 1
+
+Ch₃₅₀ ← /+=⊸⍚◴⍚°¤⊞⊏⧈₃∘⇡⧻⟜¤
+
+⊟⟜⍚Ch₃₅₀{"abcaefg" "xyzzabc" "aababc" "qwerty" "zzzaaa"}
